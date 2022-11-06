@@ -26,6 +26,7 @@ gemで以下をインストール済み
 
 以下のVisual Studio Code 拡張をインストール
 
+* EditorConfig.EditorConfig
 * rebornix.Ruby
 
 ## 使い方

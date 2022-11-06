@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+    },
+    "ruby.lint": {
+        "rubocop": true
+    },
+    "ruby.format": "rubocop",
+    "[ruby]": {
+        "editor.defaultFormatter": "rebornix.ruby"
+    }
+}
